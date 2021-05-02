@@ -1,0 +1,14 @@
+{
+  "name": "uts_19421049_rudra",
+  "version": "1.0.0",
+  "description": "uts_penjualan_kaset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RudraRastraDewangga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
